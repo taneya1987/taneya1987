@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @taneya1987
+- 👀 I’m interested in learning cloud computing
+- 🌱 I’m currently preparing for aws solution architect associate certification
+- 💞️ I’m looking to collaborate on some hands-on work related to aws cloud 
+- 📫 I can be reached on 'taneyasharmawork@gmail.com'
